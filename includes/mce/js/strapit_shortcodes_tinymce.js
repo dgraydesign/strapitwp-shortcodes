@@ -13,16 +13,11 @@
 	            });
 	            btn.onRenderMenu.add(function (c, b) {
 
-	            	b.add({title : 'Bootstrap Shortcodes', 'class' : 'mceMenuItemTitle'}).setDisabled(1);
+	            	b.add({title : 'Strapit Shortcodes', 'class' : 'mceMenuItemTitle'}).setDisabled(1);
 
 					// Buttons
 					c = b.addMenu({title:"Buttons"});
 						a.render( c, "Button", "button" );											
-
-					// Tooltip
-					c = b.addMenu({title:"Tooltip"});
-						a.render( c, "Tooltip", "tooltip" );
-						a.render( c, "Tooltip Button", "tooltipbtn" );
 
 					// Toggles
 					c = b.addMenu({title:"Accordion"});
