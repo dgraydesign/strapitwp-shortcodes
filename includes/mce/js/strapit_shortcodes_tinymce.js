@@ -73,7 +73,7 @@
 
 					//Modal
 					if(id == "modal") {
-						tinyMCE.activeEditor.selection.setContent('[strapit_modal id="1" header="Title of Modal" color="danger" size="lg" text="Click Here"]Here is he content[/strapit_modal]');
+						tinyMCE.activeEditor.selection.setContent('[strapit_modal id="1" header="Title of Modal" color="danger" size="lg" text="Click Here"]Here is the content[/strapit_modal]');
 					}	
 
 					//Tooltip
