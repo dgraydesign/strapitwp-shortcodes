@@ -2,7 +2,7 @@
 
 Author URI: http://digitalfirstmedia.com
 Plugin URI: http://github.com/dfmedia
-Author: Debbie Gray
+Author: Digital First Labs
 License: GNU General Public License version 3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
